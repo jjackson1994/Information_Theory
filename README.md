@@ -1,3 +1,4 @@
+![](images/information_theory_banner.jpg)
 # Information Theory
 #### To Do 
 - [ ] Decide on project
